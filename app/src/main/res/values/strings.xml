@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P4yuli</string>
+    <string name="idnombre">Ingresa tu nombre</string>
+    <string name="btnsaluda">saludar</string>
+    <string name="txtnombre">Ingresa tu nombre</string>
+</resources>
